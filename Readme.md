@@ -27,6 +27,8 @@ Cada casa(una fila con caracteristicas) cuenta con su etiqueta(respuesta). en es
 | 3     | 4       | 500         | Sí               | \$65,000   |
 | 3     | 5       | 500         | Sí               | \$80,000   |
 | 1     | 2       | 250         | No               | \$34,000   |
+
+
 `El aprnedizaje supervisado puede utilizarse para Regresión y Clasificación`
 ##### Modelos
 __Regresión__ -> puede predecir un dato numérico continuo
