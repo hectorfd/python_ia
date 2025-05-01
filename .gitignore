@@ -1,0 +1,12 @@
+# Ignorar entornos virtuales
+entorno_jupyter/
+
+# Ignorar checkpoints de Jupyter
+ipynb_checkpoints/
+
+# Ignorar archivos ocultos y configuraciones
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+.vscode/
+.DS_Store
